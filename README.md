@@ -53,7 +53,7 @@ To decode a single base encoding from argument **(-b/--base)**:
 
 To decode multiple base encodings from a file **(-f/--file)**:
 
-    python basecrack.py -f file.txt
+    python basekiller.py -f file.txt
 
 **Magic Mode:** To decode multi-encoded base of any pattern **(-m/--magic)**:
 
