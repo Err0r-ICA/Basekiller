@@ -1,5 +1,6 @@
-# Basekiller
+# ☠️ Basekiller ☠️
 
+## Description:
 **Basekiller** is a tool written in Python that can decode all alphanumeric base encoding schemes. This tool can accept single user input, multiple inputs from a file, input from argument, **multi-encoded bases** and decode them incredibly fast.
 
 Decode Base16, Base32, Base36, Base58, Base62, Base64, Base64Url, Base85, Base91, Base92 and more with the best base encoding scheme decoding tool. It's useful for **CTFs**, **Bug Bounty Hunting**, and **Cryptography**.
@@ -30,7 +31,7 @@ Decode Base16, Base32, Base36, Base58, Base62, Base64, Base64Url, Base85, Base91
 - **Generate a wordlist/output with the decoded bases.**
 - Predicts the type of encoding scheme.
 
-## Installation
+## 💿 Installation 💿
 ```
     $ git clone https://github.com/Err0r-ICA/basekiller
     $ cd basekiller
@@ -38,10 +39,10 @@ Decode Base16, Base32, Base36, Base58, Base62, Base64, Base64Url, Base85, Base91
     $ python basekiller.py -h
 ```
 
-## Screenshot
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/L8pbHYbx/Screenshot-20201104-050209-Termux.jpg) 
 
-## Usage
+## 📒 Usage 📒
 ```
 To decode a single base encoding from user input:
 
@@ -64,7 +65,7 @@ To generate a wordlist/output with the decoded bases **(-o/--output)**:
     python basekiller.py -f file.txt -o output-wordlist.txt
 ```
 
-### My Accounts
+### 👤 My Accounts 👤
 * [TELEGRAM](https://t.me/kalit3rmux)
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 * [INSTAGRAM](https://instagram.com/termux_hacking)
